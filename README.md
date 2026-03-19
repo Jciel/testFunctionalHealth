@@ -52,6 +52,15 @@ cp .env.example .env
 ```
 Ajuste as variáveis de banco se necessário:
 ```
+APP_NAME=funchealthapi
+APP_ENV=local
+APP_KEY=base64:P9g+9D+Q26CMSZp5ZQl2V3GUoVOwHob7hZ8MGI3ghCc=
+APP_DEBUG=true
+APP_URL=http://localhost
+
+UID=1000
+GID=1000
+
 DB_CONNECTION=pgsql
 DB_HOST=dbfunchealth
 DB_PORT=5432
