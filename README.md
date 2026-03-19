@@ -19,8 +19,8 @@ Antes de iniciar, você precisa ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone <repo-url>
-cd test-functional-health
+git clone https://github.com/Jciel/testFunctionalHealth.git
+cd testFunctionalHealth
 ```
 
 ### 2. Suba os containers
