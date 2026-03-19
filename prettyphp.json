@@ -1,0 +1,10 @@
+{
+    "src": [
+        "bin",
+        "src",
+        "tests/unit",
+        "bootstrap.php"
+    ],
+    "includeIfPhp": true,
+    "psr12": true
+}
